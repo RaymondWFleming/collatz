@@ -3,7 +3,10 @@
  *
  *  Parses arguments and places it into a struct
  *  then prints the struct
- *
+ *  
+ *  Arguments required: 2
+ *  Arg 1: Integer number of threads to run
+ *  Arg 2: Number on which to perform collatz function
  *  @author Raymond Fleming
  *  @bug No known bugs.
  */
